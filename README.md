@@ -1,18 +1,6 @@
 # Auto-RSaaS
 Automated the usage of https://reverse-shell.sh/
 
-
- _  .-')    .-')     ('-.       ('-.      .-')    
-( \( -O )  ( OO ).  ( OO ).-.  ( OO ).-. ( OO ).  
- ,------. (_)---\_) / . --. /  / . --. /(_)---\_) 
- |   /`. '/    _ |  | \-.  \   | \-.  \ /    _ |  
- |  /  | |\  :` `..-'-'  |  |.-'-'  |  |\  :` `.  
- |  |_.' | '..`''.)\| |_.'  | \| |_.'  | '..`''.) 
- |  .  '.'.-._)   \ |  .-.  |  |  .-.  |.-._)   \ 
- |  |\  \ \       / |  | |  |  |  | |  |\       / 
- `--' '--' `-----'  `--' `--'  `--' `--' `-----'  
-
-
 =====================================================================================================================================================
 
 Esentially this project automates the usage of the site https://reverse-shell.sh/. Typically during CTFs or even any timed engagements reverse shells are needed. There are two scripts located in the project the first being rs.sh which is just the reverse shell script grabbed from https://reverse-shell.sh/. Then we have gen.sh this is a script I wrote to grab the rs.sh file and edit its components.
