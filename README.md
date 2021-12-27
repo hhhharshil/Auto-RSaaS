@@ -1,2 +1,2 @@
 # Auto-RSaaS
-Autoamed the usage of https://reverse-shell.sh/
+Automated the usage of https://reverse-shell.sh/
